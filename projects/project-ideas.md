@@ -144,11 +144,23 @@ By Saulius Grigaitis
 
 EIP-7805 introduces FOCIL, a promising new feature for Ethereum. While several teams already maintain early implementations, dedicated testnets are expected to launch soon. Grandine aims to develop a robust and production-oriented FOCIL implementation, ensure compatibility with the broader ecosystem, and actively participate in upcoming testnet experiments. This work will contribute to validating and refining the proposal through real-world deployment and interoperability testing.
 
+### Grandine: Optional Execution Proofs (EIP-8025)
+
+By Saulius Grigaitis
+
+Option Execution Proofs [EIP-8025](https://github.com/ethereum/consensus-specs/tree/master/specs/_features/eip8025) another proposal that is a strong candidate for inclusion in upcoming Ethereum hard forks.
+
 ### Grandine: Disk Usage Optimization for State Storage
 
 By Saulius Grigaitis
 
 Grandine currently stores full Ethereum states every 32 epochs, resulting in redundant on-disk data and slower state reconstruction. In memory, Grandine already leverages structural sharing to eliminate overlapping data efficiently. This project aims to extend similar deduplication and delta-encoding techniques to persistent storage, significantly reducing disk usage while accelerating state transitions and historical state lookups. The work will also explore alternative database backends and storage architectures to further improve performance and scalability.
+
+### Grandine: Syncing from Non-Finalized Checkpoints
+
+By Saulius Grigaitis
+
+Grandine currently supports syncing only from finalized checkpoints. During extended periods of non-finality, it would be beneficial to support syncing from non-finalized checkpoints near the current wall-clock slot. The implementation will focus primarily on refactoring components that currently assume the client can only initialize from finalized checkpoints.
 
 ### Grandine: Attestation Packer
 
