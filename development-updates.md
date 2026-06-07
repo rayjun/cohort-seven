@@ -11,7 +11,7 @@ Phase one is the very beginning of the cohort. The first few weeks are dedicated
 
 | Name/GH | Week 0 | Week 1 | Week 2 |
 | ------- | ------ | ------ | ------ |
-|         |        |        |        |
+| [Sagar](https://www.github.com/SoarinSkySagar) | [Update 0](https://hackmd.io/@5d9IS104QYmhm-pr1ypNJg/Bk3xoWQbGg) |        |        |
 
 ## Phase 2: Deep dive
 
