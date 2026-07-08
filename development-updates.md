@@ -56,7 +56,7 @@ Phase one is the very beginning of the cohort. The first few weeks are dedicated
 | [Tosin](https://www.github.com/tosynthegeek)         | [Update 0](https://hackmd.io/@tosynthgeek/BJCL-EFbfe)                                               | [Update 1](https://hackmd.io/@tosynthgeek/BybHgXSffe)                                                 |                                                                   |
 | [Vansh](https://github.com/vanshsahay)               | [Update 0](https://hackmd.io/@vanshsahay/ByEF5juZMl)                                                | [Update 1](https://hackmd.io/@vanshsahay/SkFMZTrMGx)                                                  | [Update 2](https://hackmd.io/@vanshsahay/rk8MQqJXfg)              |
 | [Vivek Singh Solanki](https://github.com/vivek-0509) | [Update 0](https://hackmd.io/@h2RUkQVmStGWLVKk0Ne1uQ/rkTa50vfGx)                                    | [Update 1](https://hackmd.io/@h2RUkQVmStGWLVKk0Ne1uQ/Hkm1OPBGMg)                                      | [Update 2](https://hackmd.io/@h2RUkQVmStGWLVKk0Ne1uQ/rJAEJ2rXGl)   |
-| [Zidan](https://github.com/mzf11125)                 | [Update 0](https://hackmd.io/@MpYoLwpETrKvUBs2PpmPxA/BJC-dHOZze)                                    | [Update 1](https://hackmd.io/@MpYoLwpETrKvUBs2PpmPxA/ByWhfCLfMg)                                      |                                                                   |
+| [Zidan](https://github.com/mzf11125)                 | [Update 0](https://hackmd.io/@MpYoLwpETrKvUBs2PpmPxA/BJC-dHOZze)                                    | [Update 1](https://hackmd.io/@MpYoLwpETrKvUBs2PpmPxA/ByWhfCLfMg)                                      | [Update 2](https://hackmd.io/@MpYoLwpETrKvUBs2PpmPxA/Skfp9Wqmzg)   |
 
 ## Phase 2: Deep dive
 
@@ -110,7 +110,7 @@ With the gained insight into the protocol, the following weeks serve as a deep d
 | [Tosin](https://www.github.com/tosynthegeek)         | [Update 2 & 3](https://hackmd.io/@tosynthgeek/rylPjYv7Mg)                                   |        |        |                  |
 | [Vansh](https://github.com/vanshsahay)               | [Update 3](https://hackmd.io/@vanshsahay/Bk1rs4GXGx) |        |        |                  |
 | [Vivek Singh Solanki](https://github.com/vivek-0509) |                                                  |        |        |                  |
-| [Zidan](https://github.com/mzf11125)                 |                                                  |        |        |                  |
+| [Zidan](https://github.com/mzf11125)                 | [Update 3](https://hackmd.io/@MpYoLwpETrKvUBs2PpmPxA/B1DpcZ5Xfe) |        |        |                  |
 
 
 
